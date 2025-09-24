@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Abhirajq
+- 👋 Hi, I’m @Abhiraj
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning python and c++
 - 💞️ I’m looking to collaborate on 
